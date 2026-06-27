@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\marching_cubes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\marching_cubes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_shapes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_shapes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_shapes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_shapes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4AA229-A1A1-438D-99FE-EED023C6F3C0}|hm2_6MI0800779\\hm2_6MI0800779.vcxproj|solutionrelative:hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hm2_6MI0800779_SDFserializer.cpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.cpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.cpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.cpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T17:31:13.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hm2_6MI0800779_shapes.hpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_shapes.hpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_shapes.hpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_shapes.hpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_shapes.hpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-07T12:35:47.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hm2_6MI0800779_shapes.cpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_shapes.cpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_shapes.cpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_shapes.cpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_shapes.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAALEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T14:05:48.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hm2_6MI0800779_mesh.hpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_mesh.hpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_mesh.hpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_mesh.hpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_mesh.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-07T09:11:49.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "marching_cubes.hpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\marching_cubes.hpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\marching_cubes.hpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\marching_cubes.hpp",
+              "RelativeToolTip": "hm2_6MI0800779\\marching_cubes.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-06T22:41:49.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hm2_6MI0800779_SDFserializer.hpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.hpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.hpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.hpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_SDFserializer.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-07T17:23:47.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hm2_6MI0800779_mesh.cpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_mesh.cpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_mesh.cpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_mesh.cpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_mesh.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T09:28:06.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hm2_6MI0800779_main.cpp",
+              "DocumentMoniker": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_main.cpp",
+              "RelativeDocumentMoniker": "hm2_6MI0800779\\hm2_6MI0800779_main.cpp",
+              "ToolTip": "C:\\Users\\Da Beast\\Documents\\1_KN1_1_2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779\\hm2_6MI0800779_main.cpp",
+              "RelativeToolTip": "hm2_6MI0800779\\hm2_6MI0800779_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-07T18:07:46.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
